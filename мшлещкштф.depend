@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1353751060 source:c:\users\kids\desktop\םמגאÿ ןאןךא (4)\לרכושךרעפ\main.cpp
+	<iostream>
+
+1682403898 source:c:\users\kids\desktop\לרכושךרעפ\main.cpp
+	<iostream>
+	<fstream>
+	<TXLib.h>
+
+1682405081 source:c:\users\kids\desktop\לרכושךרעפ\forma.cpp
+	<iostream>
+	<fstream>
+	<TXLib.h>
+

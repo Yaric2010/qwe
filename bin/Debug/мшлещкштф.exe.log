@@ -1,0 +1,195 @@
+
+--------------------------------------------------
+TXLib סממבשאוע:
+
+Ïנמדנאללא: C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe, פאיכ: c:\codelblocks\codeblocks\mingw\include\txlib.h, סענמךא: 13390, פףםךצטÿ: bool {anonymous}::TX::txDrawText(double, double, double, double, const char*, unsigned int, HDC),
+
+Ñממבשוםטו: Ïאנאלוענ x0 = 580 במכüרו, קול x1 = 190. Òוךסע גûגמהטעüסÿ םו בףהוע.
+
+#1: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x004EC2FC (32-bit), Flags: CMdRe0, Thread: 0x990 (Main), GetLastError(): 13 (Íוהמןףסעטלûו האםםûו). 
+
+--------------------------------------------------
+Ñעוך גûחמגמג:
+
+# 0 0x00414DD9 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: txDrawText() at c:/codelblocks/codeblocks/mingw/include/txlib.h (13390)
+
+# 1 0x0041CAD5 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: main() at C:/Users/Kids/Desktop/לרכושךרעפ/main.cpp (67):
+
+     65:         txDrawText(20, 358, 190, 406, part2.c_str());
+     66:         txDrawText(306, 358, 476, 406, part3.c_str());
+=>   67:         txDrawText(580, 358, 190, 750, part4.c_str());
+     68: 
+     69: 
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codelblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Apr 25 2023 09:43:08, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Apr 25 2023 09:43:14
+
+Run file:	C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe
+Directory:	C:\Users\Kids\Desktop\לרכושךרעפ
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib סממבשאוע:
+
+Ïנמדנאללא: C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe, פאיכ: c:\codelblocks\codeblocks\mingw\include\txlib.h, סענמךא: 13390, פףםךצטÿ: bool {anonymous}::TX::txDrawText(double, double, double, double, const char*, unsigned int, HDC),
+
+Ñממבשוםטו: Ïאנאלוענ x0 = 580 במכüרו, קול x1 = 190. Òוךסע גûגמהטעüסÿ םו בףהוע.
+
+#1: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x004EC2FC (32-bit), Flags: CMdRe0, Thread: 0x2198 (Main), GetLastError(): 13 (Íוהמןףסעטלûו האםםûו). 
+
+--------------------------------------------------
+Ñעוך גûחמגמג:
+
+# 0 0x00414DD9 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: txDrawText() at c:/codelblocks/codeblocks/mingw/include/txlib.h (13390)
+
+# 1 0x0041CAD5 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: main() at C:/Users/Kids/Desktop/לרכושךרעפ/main.cpp (67):
+
+     65:         txDrawText(20, 358, 190, 406, part2.c_str());
+     66:         txDrawText(306, 358, 476, 406, part3.c_str());
+=>   67:         txDrawText(580, 358, 190, 750, part4.c_str());
+     68: 
+     69: 
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codelblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Apr 25 2023 09:43:08, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Apr 25 2023 09:44:33
+
+Run file:	C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe
+Directory:	C:\Users\Kids\Desktop\לרכושךרעפ
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib סממבשאוע:
+
+Ïנמדנאללא: C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe, פאיכ: c:\codelblocks\codeblocks\mingw\include\txlib.h, סענמךא: 13390, פףםךצטÿ: bool {anonymous}::TX::txDrawText(double, double, double, double, const char*, unsigned int, HDC),
+
+Ñממבשוםטו: Ïאנאלוענ x0 = 582 במכüרו, קול x1 = 395. Òוךסע גûגמהטעüסÿ םו בףהוע.
+
+#1: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x004EC2FC (32-bit), Flags: CMdRe0, Thread: 0xDA8 (Main), GetLastError(): 13 (Íוהמןףסעטלûו האםםûו). 
+
+--------------------------------------------------
+Ñעוך גûחמגמג:
+
+# 0 0x00414DD9 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: txDrawText() at c:/codelblocks/codeblocks/mingw/include/txlib.h (13390)
+
+# 1 0x0041CBF7 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: main() at C:/Users/Kids/Desktop/לרכושךרעפ/main.cpp (67):
+
+     65:         txDrawText(6, 363, 226, 406, part2.c_str());
+     66:         txDrawText(289, 362, 512, 412, part3.c_str());
+=>   67:         txDrawText(582, 362, 395, 410, part4.c_str());
+     68: 
+     69: 
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codelblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Apr 25 2023 10:08:55, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Apr 25 2023 10:09:02
+
+Run file:	C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe
+Directory:	C:\Users\Kids\Desktop\לרכושךרעפ
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib סממבשאוע:
+
+Ïנמדנאללא: C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe, פאיכ: c:\codelblocks\codeblocks\mingw\include\txlib.h, סענמךא: 13390, פףםךצטÿ: bool {anonymous}::TX::txDrawText(double, double, double, double, const char*, unsigned int, HDC),
+
+Ñממבשוםטו: Ïאנאלוענ x0 = 582 במכüרו, קול x1 = 395. Òוךסע גûגמהטעüסÿ םו בףהוע.
+
+#2: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x004EC2FC (32-bit), Flags: CMdRe0, Thread: 0xDA8 (Main), GetLastError(): 13 (Íוהמןףסעטלûו האםםûו). 
+
+--------------------------------------------------
+Ñעוך גûחמגמג:
+
+# 0 0x00414DD9 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: txDrawText() at c:/codelblocks/codeblocks/mingw/include/txlib.h (13390)
+
+# 1 0x0041CBF7 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: main() at C:/Users/Kids/Desktop/לרכושךרעפ/main.cpp (67):
+
+     65:         txDrawText(6, 363, 226, 406, part2.c_str());
+     66:         txDrawText(289, 362, 512, 412, part3.c_str());
+=>   67:         txDrawText(582, 362, 395, 410, part4.c_str());
+     68: 
+     69: 
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codelblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Apr 25 2023 10:08:55, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Apr 25 2023 10:09:02
+
+Run file:	C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe
+Directory:	C:\Users\Kids\Desktop\לרכושךרעפ
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib סממבשאוע:
+
+Ïנמדנאללא: C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe, פאיכ: c:\codelblocks\codeblocks\mingw\include\txlib.h, סענמךא: 13390, פףםךצטÿ: bool {anonymous}::TX::txDrawText(double, double, double, double, const char*, unsigned int, HDC),
+
+Ñממבשוםטו: Ïאנאלוענ x0 = 582 במכüרו, קול x1 = 395. Òוךסע גûגמהטעüסÿ םו בףהוע.
+
+#3: TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400], Instance: 0x004EC2FC (32-bit), Flags: CMdRe0, Thread: 0xDA8 (Main), GetLastError(): 13 (Íוהמןףסעטלûו האםםûו). 
+
+--------------------------------------------------
+Ñעוך גûחמגמג:
+
+# 0 0x00414DD9 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: txDrawText() at c:/codelblocks/codeblocks/mingw/include/txlib.h (13390)
+
+# 1 0x0041CBF7 in C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe: main() at C:/Users/Kids/Desktop/לרכושךרעפ/main.cpp (67):
+
+     65:         txDrawText(6, 363, 226, 406, part2.c_str());
+     66:         txDrawText(289, 362, 512, 412, part3.c_str());
+=>   67:         txDrawText(582, 362, 395, 410, part4.c_str());
+     68: 
+     69: 
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 171, Date: 2022-07-23 02:08:28 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\codelblocks\codeblocks\mingw\include\txlib.h
+Compiled:	Apr 25 2023 10:08:55, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, Debug
+Started:	Apr 25 2023 10:09:01
+
+Run file:	C:\Users\Kids\Desktop\לרכושךרעפ\bin\Debug\לרכושךרעפ.exe
+Directory:	C:\Users\Kids\Desktop\לרכושךרעפ
+
+--------------------------------------------------
