@@ -1,0 +1,19 @@
+#include <iostream>
+#include <fstream>
+#include <TXLib.h>
+
+
+using namespace std;
+
+
+void fstream_paint(int i, HDC )
+{
+
+
+    txBitBlt (txDC(), 0, 0, 800, 600, fon1[i]);
+    i+=1;
+    txTransparentBlt (txDC(), 0, 0, 800, 600, fon, 0, 0, TX_WHITE);
+
+}
+
+

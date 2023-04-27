@@ -2,13 +2,8 @@
 <BrowseTracker_layout_file>
 	<ActiveTarget name="Debug" />
 	<File name="main.cpp" open="1" top="1" tabpos="1">
-		<Cursor position="851" topLine="13" />
-		<BrowseMarks positions="41,61,83,109,125,931,931,931,931,931" />
+		<Cursor position="59" topLine="0" />
+		<BrowseMarks positions="41,61,65,106,123,155,1114,2124,2160,2578" />
 		<Book_Marks positions="1735" />
-	</File>
-	<File name="forma.cpp" open="1" top="0" tabpos="0">
-		<Cursor position="0" topLine="0" />
-		<BrowseMarks positions="91" />
-		<Book_Marks positions="" />
 	</File>
 </BrowseTracker_layout_file>
